@@ -1,0 +1,11 @@
+# CSVlib file to ignore
+######
+# in main repo
+##
+#dirs
+.vs/
+Debug/
+#files
+csv_in-Copy.cpp
+csvLib.sln
+csvLib.v*
